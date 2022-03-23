@@ -15,7 +15,7 @@ volume_modified=[]; oil_modified=[]
         
 
 
-  
+# Making a function which imports the data from "oil.txt" and stores it in a dictionary   
 oilDictF = {}
 
 def oilDateFunc(lines):
