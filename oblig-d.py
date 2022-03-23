@@ -17,7 +17,7 @@ volume_modified = [];
 oil_modified = [];
 date_modified = []
 
-
+# Placing the code for parts a), b) and c) in a function
 def oilFunction(lines):
    for i in range(1, 20): 
        
